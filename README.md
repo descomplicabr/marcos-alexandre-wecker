@@ -3,4 +3,4 @@ Marcos Alexandre Wecker é profissional de programação reconhecido internacion
 
 Ele já desenvolveu técnicas muito poderosas para diversas empresas.
 
-[marcos alexandre wecker][http://www.marcosalexandrewecker.net/wp-content/uploads/2016/10/wecker-organizador-de-festas.jpg]
+[marcos alexandre wecker]: http://www.marcosalexandrewecker.net/wp-content/uploads/2016/10/wecker-organizador-de-festas.jpg
